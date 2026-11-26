@@ -1,0 +1,13 @@
+# Data (health data: never publish)
+data/
+*.csv
+Y_test_predictions.txt
+
+# Python / virtual environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/

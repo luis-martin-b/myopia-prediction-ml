@@ -1,0 +1,12 @@
+# Python >= 3.11 (developed with 3.13)
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+ipykernel==7.4.0
+nbconvert==7.17.2
+# XGBoost (macOS also needs: brew install libomp)
+xgboost==3.4.1; sys_platform == "darwin"
+xgboost-cpu==3.4.1; sys_platform != "darwin"
