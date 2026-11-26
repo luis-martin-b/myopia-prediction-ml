@@ -1,7 +1,7 @@
 # 👓 Predicting Myopia from Eye Measurements and Lifestyle Data
 
 Machine Learning final project for the **MSc in Data Analytics for Engineering**.
-🏆 **Winning team of the class competition**: our models achieved the best accuracy among all teams. <!-- TODO: add details when available (e.g. number of teams, final test accuracy) -->
+🏆 **1st place out of 7 teams** in the class competition, with **87.5% average accuracy** on the hidden test set, and the best score in all four tasks.
 
 **Team:** Patricia Urdiroz · [Luis Martín](https://github.com/luis-martin-b)
 
@@ -40,6 +40,12 @@ The main challenge: **a very small dataset** (132 labelled students), with rare 
 | `DCombo` | Logistic regression | 0.631 | 0.677 | 0.355 |
 
 *Accuracy. Baseline = always predicting the most frequent class.*
+
+**Competition results on the hidden test set (24 students)**
+
+| `M` | `MM` | `Combo` | `DCombo` | Average | Rank |
+|---|---|---|---|---|---|
+| 87.5% | 91.7% | 87.5% | 83.3% | **87.5%** | 🥇 1st / 7 |
 
 **Key insights**
 - **Eye length** (combined with curvature) is by far the strongest predictor; severe myopia is linked to eyes of 26 mm or longer.
