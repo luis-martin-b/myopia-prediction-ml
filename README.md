@@ -3,7 +3,7 @@
 Machine Learning final project for the **MSc in Data Analytics for Engineering**.
 🏆 **1st place out of 7 teams** in the class competition, with **87.5% average accuracy** on the hidden test set, and the best score in all four tasks.
 
-**Team:** Patricia Urdiroz · [Luis Martín](https://github.com/luis-martin-b)
+**Team:** [Patricia Urdiroz](https://github.com/purdiroz) · [Luis Martín](https://github.com/luis-martin-b)
 
 ---
 
